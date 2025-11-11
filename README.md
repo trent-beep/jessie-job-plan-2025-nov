@@ -1,5 +1,4 @@
-# jessie-job-plan-2025-nov
-New Job Plan
+```html
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -298,3 +297,22 @@ Jessie
 
 </body>
 </html>
+```
+
+---
+
+**How to Use This HTML Page**
+
+1. **Save it**: Copy all the code above → paste into a file named `jessie-job-plan.html`
+2. **Open in any browser** (Chrome, Safari, Edge) – no internet needed after saving.
+3. **Print or share**: Click the **🖨️ Print Resume** button or send the file via email/WhatsApp.
+4. **Mobile-friendly**: Looks great on phone or tablet.
+
+---
+
+**Want me to**:
+- Host it online (free link)?
+- Add your **suburb/postcode** for local card shops?
+- Turn it into a **PDF**?
+
+Just say the word!
